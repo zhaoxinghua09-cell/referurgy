@@ -11,7 +11,8 @@ family: meta-layer-creation
 related: [lgd-doctrine]
 ---
 
-[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/referurgy)
+[![LGD 82/100](docs/lgd-main.svg)](https://github.com/zhaoxinghua09-cell/referurgy) [![四角度](docs/lgd-angles.svg)](https://github.com/zhaoxinghua09-cell/referurgy)
+
 
 # Referurgy · 参照工程术
 
