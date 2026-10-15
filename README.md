@@ -1,7 +1,7 @@
 ---
 name: referurgy
 description: "Use when benchmarking against mature systems for gap analysis (borrow principles, not implementations). 当需要对标成熟体系做差距分析（借原理、不抄实现）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
